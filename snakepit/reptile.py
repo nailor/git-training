@@ -3,5 +3,6 @@ def is_reptile(reptile):
         return False
     return True
 
+
 def snake(entity=None):
     print "It's a snaaaake, snaaaake"
