@@ -6,3 +6,7 @@ def is_reptile(reptile):
 
 def snake(entity=None):
     print "It's a snaaaake, snaaaake"
+
+
+def viper():
+    snake(entity='viper')
