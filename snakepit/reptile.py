@@ -10,3 +10,7 @@ def snake(entity=None):
 
 def viper():
     snake(entity='viper')
+
+
+def honeybadger(snake):
+    print 'Eating %s' % snake
